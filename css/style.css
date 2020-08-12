@@ -175,7 +175,7 @@ div#card-formação ul p{
 h1#nome{
     font-size: 50px;
     font-weight: bold;
-    color: rgb #FFF;
+    color: #FFF;
     margin-top: 5%;
 }
 
@@ -224,7 +224,7 @@ div#status-bleble{
 
 
 h2#profissão{
-    color: rgb(#FFF;
+    color: #FFF;
     font-size: 30px;
     font-weight: lighter;
 }
