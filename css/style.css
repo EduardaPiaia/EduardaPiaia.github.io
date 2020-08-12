@@ -140,7 +140,7 @@ div#card-experiência{
 }
 
 div#card-habilidades{
-    height: 500px;
+    height: 400px;
 }
 
 div#card-experiência ul, 
@@ -208,18 +208,25 @@ div#main span{
     margin-top: 15px;
 }
 
-div#status-blabla{
+div#status-Inglês{
     height: 15px;
     background-color: black;
     border-radius: 22px;
-    width: calc( ( 236px *70)/100) ;
+    width: calc( ( 236px *40)/100) ;
 }
 
-div#status-bleble{
+div#status-criatividade{
     height: 15px;
     background-color: black;
     border-radius: 22px;
-    width: calc( ( 236px *45)/100) ;
+    width: calc( ( 236px *60)/100) ;
+}
+
+div#status-liderança{
+    height: 15px;
+    background-color: black;
+    border-radius: 22px;
+    width: calc((236px *60)/100);
 }
 
 
