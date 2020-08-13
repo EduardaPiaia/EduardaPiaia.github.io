@@ -102,7 +102,7 @@ div#card-pessoal footer a {
 }
 
 div#card-sobre{
-    height: 260px;
+    height: 200px;
 }
 
 .linha{
@@ -132,11 +132,11 @@ div#card-sobre p{
 }
 
 div#card-formação{
-    height: 500px;
+    height: 600px;
 }
 
 div#card-experiência{
-    height: 500px;
+    height: 200px;
 }
 
 div#card-habilidades{
