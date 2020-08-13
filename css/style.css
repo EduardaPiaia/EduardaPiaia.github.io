@@ -36,7 +36,7 @@ div#imagem{
     position: absolute;
     width: 300px;
     height: 350px;
-    background-image: url(../img/me.jpg);
+    background-image: url(../img/foto\ portfólio.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -212,7 +212,7 @@ div#status-Inglês{
     height: 15px;
     background-color: black;
     border-radius: 22px;
-    width: calc( ( 236px *40)/100) ;
+    width: calc( ( 236px *30)/100) ;
 }
 
 div#status-criatividade{
@@ -226,7 +226,28 @@ div#status-liderança{
     height: 15px;
     background-color: black;
     border-radius: 22px;
-    width: calc((236px *60)/100);
+    width: calc((236px *50)/100);
+}
+
+div#status-comunicação{
+    height: 15px;
+    background-color: black;
+    border-radius: 22px;
+    width: calc((236px *40)/100);
+}
+
+div#status-organização{
+    height: 15px;
+    background-color: black;
+    border-radius: 22px;
+    width: calc((236px *75)/100);
+}
+
+div#status-italiano{
+    height: 15px;
+    background-color: black;
+    border-radius: 22px;
+    width: calc((236px *15)/100);
 }
 
 
